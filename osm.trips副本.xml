@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<routes>
+
+   <route edges="442616757 246481118 709674358#0 709674358#1 709674359#0 709674359#2 111783432 441121937 102821102#0 102821102#1 102821102#2 102821102#3" color="yellow" id="route_0"/>
+	
+
+
+   <vType id="human" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="70" minGap="0" laneChangeModel="SL2015" guiShape='passenger/wagon'/>
+    <vType id="rl" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="50"  carFollowModel="IDM" 
+minGap="2" laneChangeModel="SL2015"  guiShape='passenger/van' color="1,0,0"/>
+</routes>

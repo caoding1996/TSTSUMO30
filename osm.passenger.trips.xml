@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!-- generated on 2021-11-07 22:13:08.512868 by $Id: route2trips.py 23614 2017-03-22 13:02:46Z luecken $ via randomTrips.py
+  options: 
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" vClass="passenger">
+    </vType>
+    <trip id="veh0" depart="0.00" departLane="best" from="5020531" to="245452469#0" type="passenger"/>
+    <trip id="veh1" depart="2.62" departLane="best" from="5020531" to="102826319#0" type="passenger"/>
+    <trip id="veh2" depart="5.23" departLane="best" from="5020531" to="454467320#2" type="passenger"/>
+    <trip id="veh3" depart="7.85" departLane="best" from="5020531" to="-759774588#0" type="passenger"/>
+    <trip id="veh4" depart="10.46" departLane="best" from="5020531" to="152073858" type="passenger"/>
+    <trip id="veh5" depart="13.08" departLane="best" from="5020531" to="102821025" type="passenger"/>
+    <trip id="veh7" depart="18.31" departLane="best" from="5020531" to="33613802#1" type="passenger"/>
+    <trip id="veh8" depart="20.93" departLane="best" from="5020531" to="-103020358" type="passenger"/>
+    <trip id="veh9" depart="23.54" departLane="best" from="5020531" to="45740773" type="passenger"/>
+    <trip id="veh10" depart="26.16" departLane="best" from="5020531" to="102674700#3" type="passenger"/>
+    <trip id="veh11" depart="28.77" departLane="best" from="5020531" to="105307484#0" type="passenger"/>
+    <trip id="veh12" depart="31.39" departLane="best" from="5020531" to="-922509614#1" type="passenger"/>
+    <trip id="veh13" depart="34.00" departLane="best" from="5020531" to="33620021#1" type="passenger"/>
+    <trip id="veh14" depart="36.62" departLane="best" from="5020531" to="494502147#1" type="passenger"/>
+    <trip id="veh15" depart="39.24" departLane="best" from="5020531" to="863479761#2" type="passenger"/>
+    <trip id="veh16" depart="41.85" departLane="best" from="5020531" to="33680135" type="passenger"/>
+    <trip id="veh17" depart="44.47" departLane="best" from="5020531" to="102833835#4" type="passenger"/>
+    <trip id="veh18" depart="47.08" departLane="best" from="5020531" to="103020498#3" type="passenger" color="red" />
+
+</routes>
